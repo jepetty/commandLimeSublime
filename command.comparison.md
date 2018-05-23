@@ -18,3 +18,6 @@ clear | cls
 
 
 [Other Commands](https://www.lemoda.net/windows/windows2unix/windows2unix.html)
+
+## Other Significant Differences
+Casing doesn't matter in Windows as it does in Mac/Linux, but slashes are reversed if you want auto-complete.
