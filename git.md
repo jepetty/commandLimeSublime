@@ -1,6 +1,8 @@
 # Using Git
 Ok, let's be honest. Competency in Git is nearly essential for today's developers. Here's some resources to get you going on any enviroment you're working in to keep you up with the best of 'em.
 
+[Try out a Git tutorial!](https://git-scm.com/docs/gittutorial)
+
 ## Mac
 1. [Download Git for Mac](https://git-scm.com/download/mac)
 2. [Want to use a Git GUI?](https://git-scm.com/download/gui/mac)
