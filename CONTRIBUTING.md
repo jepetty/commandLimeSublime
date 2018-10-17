@@ -8,3 +8,5 @@ Please fork the original project repository and develop your additions or change
 
 ## Bugs and Requests
 We invite you to submit any bugs or feature requests! We also invite any changes that implement a feature request or resolve a bug. Thanks for your help!
+
+hi i don't know how to program but i want to help, can i/?
